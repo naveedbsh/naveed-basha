@@ -1,0 +1,2 @@
+# naveed-basha
+spellomania is a very addictive game where it  enables to make you learn crosswords containing alphabetical letters, where they move randomly and then user have to select bubbles and unlock the background alphabets as respective to limited taps to those bubbles and make a word or a sentence or paragraph (depending upon the level they are) by this game they can improve their vocabulary,entertainment(fun) and earn money by their levels and credit points in the game.
